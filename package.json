@@ -12,7 +12,7 @@
   "dependencies": {
     "@dagrejs/dagre": "^1.1.4",
     "@monaco-editor/react": "^4.6.0",
-    "@xyflow/react": "^12.4.2",
+    "@xyflow/react": "^12.4.4",
     "html-to-image": "^1.11.11",
     "js-yaml": "^4.1.0",
     "lucide-react": "^0.474.0",
